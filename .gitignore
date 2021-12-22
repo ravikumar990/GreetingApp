@@ -39,3 +39,4 @@ build/
 HELP
 target
 .git
+.gitignore
